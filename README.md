@@ -1,6 +1,4 @@
-Voici un README en français que tu peux utiliser pour présenter ton dépôt :
 
-````markdown name=README.md
 # Travaux Power BI
 
 Ce dépôt regroupe mes travaux réalisés avec **Microsoft Power BI**.
